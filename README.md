@@ -12,8 +12,8 @@ Zeus 是一款基于Android系统运行的应用沙箱软件，其核心旨在�
 
 #### 联系方式
 -  邮箱 ：bigmouse19999@gmail.com
-- Telegram：<br>
-
+- Telegram：https://t.me/poju99<br>
+  ![Image text](https://github.com/BigMouse19999/CloneApp/blob/main/img/t_me-poju99.jpg)
 
 
 ## 界面展示
