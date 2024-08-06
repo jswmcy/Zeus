@@ -20,4 +20,9 @@ Zeus是一款基于Android系统运行的免Root的应用沙箱软件，其核�
   <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/t_me-poju99.jpg" width="240px">
 
 ## 界面展示
+  <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/Screenshot_20240806_145259.jpg?raw=true" width="320px">
+  <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/Screenshot_20240806_145328.jpg?raw=true" width="320px">
+
+
+
 
