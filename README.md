@@ -12,10 +12,11 @@ Zeus是一款基于Android系统运行的免Root的应用沙箱软件，其核�
 
 完美支持通过各种软件的检测手段～～～
 
-由于软件运行需要激活码，可以通过以下方式联系，获取测试码资格。
+由于软件运行需要激活码，可以通过以下方式联系,或者加入我们的Telegram群，我们每天都会在群里免费放出测试码供大家使用哦～～
 
 #### 联系方式
 -  邮箱 ：bigmouse19999@gmail.com
+- Telegram 群：https://t.me/mockloc<br>
 - Telegram：https://t.me/poju99<br>
   <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/t_me-poju99.jpg" width="240px">
 
