@@ -15,10 +15,15 @@ Zeus是一款基于Android系统运行的免Root的应用沙箱软件，其核�
 由于软件运行需要激活码，可以通过以下方式联系,或者加入我们的Telegram群，我们每天都会在群里免费放出测试码供大家使用哦～～
 
 #### 联系方式
+- 微信号：pobizhe111(不定期查看，看到后会回复)<br>
+  <img src="https://github.com/BigMouse19999/Zeus/blob/main/img/IMG_0033.JPG" width="240px">
+  
 -  邮箱 ：bigmouse19999@gmail.com(不定期查看，看到后会回复)
 - Telegram 群：https://t.me/mockloc<br>
 - Telegram：https://t.me/poju99<br>
   <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/t_me-poju99.jpg" width="240px">
+
+
 
 ## 界面展示
   <img src="https://github.com/BigMouse19999/CloneApp/blob/main/img/Screenshot_20240806_145259.jpg?raw=true" width="320px">
